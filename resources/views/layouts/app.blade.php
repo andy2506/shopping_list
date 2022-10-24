@@ -29,7 +29,7 @@
             height: 100vh;
         }
         .action_btns{
-         padding: 5px;
+         padding: 10px;
          cursor: pointer;
         }
         .right.aligned{
